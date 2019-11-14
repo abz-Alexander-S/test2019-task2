@@ -1,31 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.21f646b8.chunk.css",
-    "main.js": "/static/js/main.1c1ed466.chunk.js",
-    "main.js.map": "/static/js/main.1c1ed466.chunk.js.map",
+    "main.css": "/static/css/main.37a25cf2.chunk.css",
+    "main.js": "/static/js/main.101ae417.chunk.js",
+    "main.js.map": "/static/js/main.101ae417.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8c3c2add.js",
     "runtime-main.js.map": "/static/js/runtime-main.8c3c2add.js.map",
     "static/css/2.3f58ca6a.chunk.css": "/static/css/2.3f58ca6a.chunk.css",
     "static/js/2.252e683c.chunk.js": "/static/js/2.252e683c.chunk.js",
     "static/js/2.252e683c.chunk.js.map": "/static/js/2.252e683c.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.9dbe33d941bb8bf0b00a98c99f52130d.js": "/precache-manifest.9dbe33d941bb8bf0b00a98c99f52130d.js",
+    "precache-manifest.e6cb32ed45abff302cc4c057ec11b449.js": "/precache-manifest.e6cb32ed45abff302cc4c057ec11b449.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.3f58ca6a.chunk.css.map": "/static/css/2.3f58ca6a.chunk.css.map",
-    "static/css/main.21f646b8.chunk.css.map": "/static/css/main.21f646b8.chunk.css.map",
-    "static/media/2k.jpg": "/static/media/2k.df51188e.jpg",
-    "static/media/desktop.jpg": "/static/media/desktop.fe7968e3.jpg",
+    "static/css/main.37a25cf2.chunk.css.map": "/static/css/main.37a25cf2.chunk.css.map",
+    "static/media/2k.jpg": "/static/media/2k.68282b23.jpg",
+    "static/media/desktop.jpg": "/static/media/desktop.c10155fc.jpg",
     "static/media/layout.png": "/static/media/layout.73a92e91.png",
     "static/media/mainpageLayout.png": "/static/media/mainpageLayout.9d72178a.png",
-    "static/media/mobile.jpg": "/static/media/mobile.a47cfd52.jpg",
-    "static/media/tablet.jpg": "/static/media/tablet.ba417d5e.jpg",
+    "static/media/mobile.jpg": "/static/media/mobile.483ee3f1.jpg",
+    "static/media/tablet.jpg": "/static/media/tablet.c5d2ef36.jpg",
     "static/media/user-superstar-2x.jpg": "/static/media/user-superstar-2x.0592ecbe.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.8c3c2add.js",
     "static/css/2.3f58ca6a.chunk.css",
     "static/js/2.252e683c.chunk.js",
-    "static/css/main.21f646b8.chunk.css",
-    "static/js/main.1c1ed466.chunk.js"
+    "static/css/main.37a25cf2.chunk.css",
+    "static/js/main.101ae417.chunk.js"
   ]
 }
